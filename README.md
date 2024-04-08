@@ -15,7 +15,8 @@ Our Market Entry Strategy would be to Build partnerships with key stakeholders, 
 We aim to provide the device at rentals of 999/month .
 
 ![image](https://github.com/ersurajsingh/OxyLeakDetector/assets/36544126/e1282d9a-92be-46ad-9b71-f3999a74ddf0)
-![IMG_1843](https://github.com/ersurajsingh/OxyLeakDetector/assets/36544126/36e70af6-7728-430d-a013-fe45f1999c88)
+![IMG_1844_](https://github.com/ersurajsingh/OxyLeakDetector/assets/36544126/6f599bce-22f4-42c0-873b-5c5f7d01aa74)
+
 
 ## Key Features
 1. **Real-time Audio Monitoring:** Provides real-time audio monitoring to pinpoint the exact location and intensity of potential leaks.
