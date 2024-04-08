@@ -1,4 +1,3 @@
-```markdown
 # Dual Sense Oxygen Leak Detector
 
 ## Introduction
